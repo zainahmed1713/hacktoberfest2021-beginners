@@ -1,25 +1,27 @@
-# Your Name
+# Fill in Your Details
+
+# Zain Ahmed
 
 ### Location
 
-Your City/Country
+Lahore, Pakistan
 
 ### Academics
 
-Your School
+Bahria University
 
 ### Interests
 
-- Some Things You Like
+- I love to read fictional books in my free time
 
-### Development
+### Skills
 
-- Inventor of the My Pillow
+- C++, HTML, CSS
 
-### Projects
+### Projects (if any)
 
-- [My Project](GitHub Link) Short Description
+- [School Management System](https://github.com/zainahmed1713/school-management-system) A group project for my 1st semester finals
 
 ### Profile Link
 
-[Your Name](GitHub Link)
+[Zain Ahmed](https://github.com/zainahmed1713)
