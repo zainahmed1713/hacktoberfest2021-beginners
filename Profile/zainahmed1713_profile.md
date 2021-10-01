@@ -1,5 +1,3 @@
-# Fill in Your Details
-
 # Zain Ahmed
 
 ### Location
