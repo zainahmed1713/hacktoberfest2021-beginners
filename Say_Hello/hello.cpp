@@ -1,3 +1,6 @@
+// Language: C++
+// Author: Zain Ahmed
+
 #include <iostream>
 using namespace std;
 
